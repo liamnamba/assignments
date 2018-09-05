@@ -11,7 +11,7 @@ If the course texts are available to you, the following readings will shore up t
 - Norman Chapter 1
 - Shneiderman/Plaisant Chapter 2
 
-## For Submission: A Front End Design and White Paper
+## For Submission: Front End Design and White Paper
 The title pretty much says it: envision and describe a front end for a pre-existing web service API. Many such APIs are freely and publicly available, although many do require some degree of signup. The [Programmable Web](http://www.programmableweb.com) blog, especially its [API Directory](http://www.programmableweb.com/category/all/apis), is a good starting point for your “API shopping.” For this assignment, you are to:
 
 - Choose a web service API (the concept of a web service will be described in class, with implementation details to come later)
