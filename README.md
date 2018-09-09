@@ -8,4 +8,4 @@ This repository hosts a public copy of the assignment write-ups for this course 
 - [Assignment 1025](./front-end-development.md) Front-end development
 - [Assignment 1115](./api-integration.md) API integration
 - [Assignment 1206](./front-end-evaluation-and-vision.md) Front-end evaluation and design vision document
-- **Assignment 1214** Reusable direct manipulation user interface component
+- [Assignment 1214](./reusable-component.md) Reusable direct manipulation user interface component
