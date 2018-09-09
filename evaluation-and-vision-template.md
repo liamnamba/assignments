@@ -31,22 +31,22 @@ Copy this file to a new one called _evaluation-and-vision.md_. Populate the sect
 ## Design Vision
 > In this section, you may release yourself from all implementation knowledge constraints and describe what you feel would be the ideal design for your front end. You may also release yourself from the technology stack that you chose, if you feel that the ideal interface for your application is better delivered on a different platform or device. You will notice that the outline for this section is very similar to [Assignment 0920](./front-end-design.md)—in a way, it serves the same purpose, but for a next-generation version of your front end.
 
-## Top-Level Design/Layout
+### Top-Level Design/Layout
 > Provide an overview of your user interface. Annotated mockups work very well here, with accompanying text describing, at a high level, the various components of your design. You may also provide a comparative illustration of how your “vision” differs from the existing reality.
 
-## Usage Scenarios
+### Usage Scenarios
 > As with your original front-end design document, provide at least two usage scenarios here. They may be the same or different from the scenarios in the original. The best choices for this document are the scenarios that effectively show off the strengths of your “vision” design.
 
-### Usage Scenario 1
+#### Usage Scenario 1
 > Replace the title with an actual description of the scenario, e.g., “Adding a Song to a Playlist.”
 
-### Usage Scenario 2
+#### Usage Scenario 2
 > Ditto with the title.
 
-## Design Rationale
+### Design Rationale
 > State why your design is the way it is: relevant priorities, mental models, interaction design concepts, guidelines, principles, theories, etc. Because this is a second iteration, you may also bring in lessons learned from the original design rationale from earlier in the semester. Cite relevant references as needed.
 
-## Usability Metric Motivation
+### Usability Metric Motivation
 > In conclusion, remember that the final objective measure of an application’s usability is how it fares in the five established usability metrics. Thus, your design “vision” must also be motivated by those metrics. Based on the informal measurements that you captured for the existing design and what you feel are the priority metrics for your application, state how your new design vision intentionally aims to improve on the important metrics, possibly trading off those improvements for the less important ones.
 
 ## References
