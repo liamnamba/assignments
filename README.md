@@ -5,7 +5,7 @@ This repository hosts a public copy of the assignment write-ups for this course 
 
 - [Assignment 0904](http://dondi.lmu.build/fall2018/cmsi370/cmsi370-fall2018-hw0904.pdf) GitHub-YouTube account listing
 - [Assignment 0920](./front-end-design.md) Front-end design and white paper
-- **Assignment 1025** Front-end development
-- **Assignment 1115** API integration
+- [Assignment 1025](./front-end-development.md) Front-end development
+- [Assignment 1115](./api-integration.md) API integration
 - **Assignment 1206** Front-end evaluation and design vision document
 - **Assignment 1214** Reusable direct manipulation user interface component
